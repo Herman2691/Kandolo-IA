@@ -13,7 +13,7 @@
    ============================================================ */
 
 // 🔑 Ta clé API Mistral (https://console.mistral.ai → API Keys)
-define('MISTRAL_API_KEY', '12KNMk7awqMccaVqbPEC5B5HUlPVYKBL');
+define('MISTRAL_API_KEY', '');
 
 // Plafond de tokens PAR REQUÊTE (taille max d'une réponse).
 // La génération automatique des 20 agents a besoin d'environ 8000.
